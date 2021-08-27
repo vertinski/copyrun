@@ -32,6 +32,8 @@ that this app is active and running. It also writes status messages in terminal.
 
 This warning is a part of CopyRun app and should be included in code at all times!
 
+Written by Vertinski
+
 '''
 
 
