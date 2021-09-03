@@ -18,7 +18,9 @@ It saves the contents of the clipboard in file "testscript.py" and executes it. 
 At all times there is an app window visible, which indicates
 that this app is active and running.  
 While active, CopyRun writes status messages and launched program's output in terminal.
-**You can pause the CopyRun app if copying text other than Python programs, or code execution not needed at the moment.**
+<br />
+<b>You can pause the CopyRun app if copying text other than Python programs, or code execution not needed at the moment.</b>
+<br />
 <br />
 <img src="./images/copyrun.gif" width=100%>
   
