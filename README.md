@@ -19,7 +19,7 @@ At all times there is an app window visible, which indicates
 that this app is active and running.  
 While active, CopyRun writes status messages and launched program's output in terminal.
 <br />
-<b>You can pause the CopyRun app if copying text other than Python programs, or code execution not needed at the moment.</b>
+<b>You can pause the CopyRun app if copying text other than Python programs, or code execution not needed at the moment. Do that by toggling the green switch!</b>
 <br />
 <br />
 <img src="./images/copyrun.gif" width=100%>
