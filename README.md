@@ -10,7 +10,7 @@ FOR EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY.
 > 1) Launch copyrun-1.2.0.py
 > 2) Copy valid Python code from anywhere
 > 3) Enjoy the code running instantly
-> 4) Pause the program when needed
+> 4) Pause the app when needed
 
 <br />
 This app automatically executes Python code after it is copied in clipboard.  
