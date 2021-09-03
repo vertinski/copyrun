@@ -134,6 +134,7 @@ def main():
     exit_btn.pack (padx = 10, side='right')
 
 
+    app.clipboard_append ('zzzzzzzzz')   # add string into clipboard to avoid errors
 
     old_clip = app.clipboard_get()   # previously copied buffer for comparison
     clip_text = old_clip             # both filled with current clipboard
